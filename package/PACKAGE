@@ -1,0 +1,20 @@
+package: RV Node Graph
+author: Erwan Leroy
+version: 0.1
+requires: ''
+rv: 7.5.0
+openrv: 1.0.1
+optional: true
+hidden: false
+
+modes: 
+  - file: rv_node_graph.py
+    menu: 'Tools/Node Graph'
+    shortcut: ''
+    event: ''
+    load: immediate
+
+description: |
+    <p>
+    Node Graph
+    </p>
